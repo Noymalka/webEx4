@@ -2,7 +2,6 @@
 :: this bat file is used to set up a git repository
 :: to run, use .\set_git.bat
 
-:: Uncomment the following line to initialize the repository
  git init
 git add .
 git commit -m "first commit"
